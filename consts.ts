@@ -1,0 +1,2 @@
+export const SELECTOR_STATUS = '[data-testid="issue.views.issue-base.foundation.status.status-field-wrapper"]'
+export const SELECTOR_TARGET = '[data-testid="issue.views.issue-base.context.status-and-approvals-wrapper.status-and-approval"]'
