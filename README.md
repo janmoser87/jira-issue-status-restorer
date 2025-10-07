@@ -3,6 +3,8 @@
 
 # 🔍 Jira Issue Status Restorer – Audit-only Release
 
+[🛠️ Available on Chrome Web Store](https://chromewebstore.google.com/detail/jira-issue-status-restore/inbgkdoilggapjdgmhhboealeeicgilc)
+
 This browser extension restores the Jira issue **status dropdown** back to its **original top-right position** — where it had been for years, and the only logical place for a status switcher. It exists to undo an unnecessary UI change introduced by Jira.
 
 This project is **not licensed for reuse, redistribution, or modification**.  
